@@ -1,5 +1,5 @@
 # E-commerce Website
-    This is a fully functional e-commerce website that allows users to browse products, add items to their cart, and make purchases. The website is built using HTML, CSS, JavaScript, and PHP.
+ This is a fully functional e-commerce website that allows users to browse products, add items to their cart, and make purchases. The website is built using HTML, CSS, JavaScript, and PHP.
 
 # Features
 -  User registration and login system
